@@ -1,10 +1,9 @@
 # CODSOFT_QuizGame
 
-#**Create data.json file**
-
+# Create data.json file**
 # write this code in json file
 
-{
+**{
   "question": [
   "Q1. Which planet is known as the Red Planet?",
     "Q2. Who wrote the famous play Romeo and Juliet?",
@@ -47,5 +46,5 @@
       "Bangkok"
     ]
   ]
-}
+}**
 
