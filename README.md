@@ -2,6 +2,8 @@
 
 **Create data.jason file**
 
+
+_QUESTIONS_
 {
   "question": [
     "Q1. Which planet is known as the Red Planet?",
@@ -10,6 +12,8 @@
     "Q4. Which mammal can fly and navigate using echolocation?",
     "Q5. What is the capital city of Japan?"
   ],
+
+_ANSWERS_
   "answer": [
     2,
     1,
@@ -17,6 +21,8 @@
     1,
     1
   ],
+
+_OPTIONS_
   "options": [
 
      ["Venus",
@@ -46,4 +52,3 @@
     ]
   ]
 }
-
