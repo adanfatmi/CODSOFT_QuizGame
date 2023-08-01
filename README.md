@@ -5,7 +5,7 @@
 
 {
   "question": [
-  "Q1. Which planet is known as the Red Planet?",
+    "Q1. Which planet is known as the Red Planet?",
     "Q2. Who wrote the famous play Romeo and Juliet?",
     "Q3. What is the chemical symbol for water?",
     "Q4. Which mammal can fly and navigate using echolocation?",
